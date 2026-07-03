@@ -24,7 +24,7 @@ builddependencies = [
 dependencies = [
     ('Python', '3.13.5'),
     ('SciPy-bundle', '2025.07'),
-    ('PyYAML', '6.0'),
+    ('PyYAML', '6.0.2'),
     ('mcpl', '2.2.8'),
 ]
 
